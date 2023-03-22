@@ -36,6 +36,6 @@ Sterne, Jonathan. *The Audible Past: Cultural Origins of Sound Reproduction*. Du
 
 University of Chicago SAND Lab. [The Glaze Project.](https://glaze.cs.uchicago.edu/) Self-published, 2023. (For more on AI-cloaking. Hat tip to [Miriam Posner](https://miriamposner.com/) at UCLA for pointing me to this project.)
 
-Wilkins, Alex. ["AI Trained on YouTube and Podcasts Speaks with Ums and Ahs."](https://www.newscientist.com/article/2362956-ai-trained-on-youtube-and-podcasts-speaks-with-ums-and-ahs/). *New Scientist*, 9 March 2023. (For more on AI mimicking unintentional speech. Hat tip to [*Sounding Out!*](https://soundstudiesblog.com/) for pointing me to this one.)
+Wilkins, Alex. ["AI Trained on YouTube and Podcasts Speaks with Ums and Ahs."](https://www.newscientist.com/article/2362956-ai-trained-on-youtube-and-podcasts-speaks-with-ums-and-ahs/) *New Scientist*, 9 March 2023. (For more on AI mimicking unintentional speech. Hat tip to [*Sounding Out!*](https://soundstudiesblog.com/) for pointing me to this one.)
 
 Wolfram, Stephen. ["What Is ChatGPT Doing . . . and Why Does It Work?"](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) Self-published, 14 February 2023. (For more on how ChatGPT works. Hat tip to [Alex Gil](https://www.elotroalex.com/) at Yale for pointing me to this one.)
